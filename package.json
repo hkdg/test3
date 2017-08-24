@@ -1,5 +1,4 @@
 {
-  
   "name": "test3",
   "version": "0.0.1",
   "description": "test",
@@ -14,7 +13,7 @@
   "keywords": [
     "test"
   ],
-  "author": "Daniel Yang",
+  "author": "hkdg",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FE-star/exercise2/issues"
